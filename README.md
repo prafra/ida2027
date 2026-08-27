@@ -119,7 +119,7 @@ All site configuration lives in **`_config.yml`**. Key sections, using the confi
 
 #### Site Metadata
 ```yaml
-title: "Conference 202X"
+title: "Conference 2027"
 subtitle: "{{ site.conference.edition }} {{ site.conference.name }}"
 email: "contact@conference.org"
 description: >-
@@ -128,9 +128,9 @@ description: >-
 conference:
   name: "International Symposium on Intelligent Data Analysis"
   edition: "25th"
-  acronym: "CONF 202X"
-  year: 202X
-  location: "City, Country"
+  acronym: "IDA 2027"
+  year: 2027
+  location: "Pisa, Italy"
   dates: "Month d1-d2, 202X"
   topic: "Intelligent Data Analysis"
 
