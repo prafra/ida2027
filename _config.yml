@@ -9,9 +9,9 @@ description: >-
 conference:
   name: "International Conference on the topic of the conference"
   edition: "25th"
-  acronym: "CONF 202X"
-  year: 202X
-  location: "City, Country"
+  acronym: "IDA 2027"
+  year: 2027
+  location: "Pisa, Italy"
   dates: "Month d1-d2, 202X"
   topic: "Intelligent Data Analysis"
 

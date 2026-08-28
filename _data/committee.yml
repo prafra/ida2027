@@ -1,5 +1,5 @@
-- name: "Placeholder General Chair"
-  affiliation: "University Name"
+- name: "Francesca Pratesi"
+  affiliation: "National Council of Research of Italy"
   photo: ""
   bio: "Bio to be added."
   role: "General Chair"
@@ -40,11 +40,11 @@
   bio: "Bio to be added."
   role: "Proceedings Chair"
 
-- name: "Placeholder Publicity 1"
-  affiliation: "University Name"
+- name: "Daniele Fadda"
+  affiliation: "National Council of Research of Italy"
   photo: ""
   bio: "Bio to be added."
-  role: "Publicity Team"
+  role: "Webmaster"
 
 - name: "Placeholder Publicity 2"
   affiliation: "University Name"
