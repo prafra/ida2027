@@ -1,5 +1,5 @@
 - day: 1
-  date: "Wednesday, April 22"
+  date: "Wednesday, April 21"
   label: "Day 1"
   sessions:
     - time: "08:00"
@@ -56,7 +56,7 @@
       description: "Opening reception with drinks and bites."
 
 - day: 2
-  date: "Thursday, April 23"
+  date: "Thursday, April 22"
   label: "Day 2"
   sessions:
     - time: "08:00"
@@ -118,7 +118,7 @@
       bus_info: "Bus from venue at 18:30"
 
 - day: 3
-  date: "Friday, April 24"
+  date: "Friday, April 23"
   label: "Day 3"
   sessions:
     - time: "08:00"
