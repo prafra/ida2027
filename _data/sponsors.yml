@@ -1,3 +1,9 @@
+# tier: diamond | gold | silver | bronze (see _data/sponsorship.yml) or supporter
+- name: "Diamond Partner"
+  logo: ""
+  url: "https://example.com"
+  tier: "diamond"
+
 - name: "University of Example"
   logo: ""
   url: "https://example.com"
@@ -8,12 +14,12 @@
   url: "https://example.com"
   tier: "silver"
 
+- name: "Local Company"
+  logo: ""
+  url: "https://example.com"
+  tier: "bronze"
+
 - name: "Tech Partner"
   logo: ""
   url: "https://example.com"
   tier: "supporter"
-
-- name: "University of Example"
-  logo: ""
-  url: "https://example.com"
-  tier: "gold"

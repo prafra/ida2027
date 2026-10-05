@@ -12,7 +12,7 @@ conference:
   acronym: "IDA 2027"
   year: 2027
   location: "Pisa, Italy"
-  dates: "Month d1-d2, 202X"
+  dates: "April 21-23, 2027"
   topic: "Intelligent Data Analysis"
 
 markdown: kramdown
@@ -47,8 +47,8 @@ navbar:
       child:
         - title: Programme Overview
           url: /programme-overview/
-        - title: Accepted Papers
-          url: /accepted-papers/
+        # - title: Accepted Papers
+        #   url: /accepted-papers/
         - title: Invited Speakers
           url: /invited-speakers/
         - title: Social Programme
@@ -118,7 +118,7 @@ footer:
     - label: "Facebook"
       icon: "fab fa-facebook"
       url: "https://www.facebook.com/conference/"
-  copyright: "202X - Conference Website"
+  copyright: "2027 - Conference Website"
 
 sass:
   quiet_deps: true

@@ -9,14 +9,14 @@ layout: default
         {% assign reg = site.data.registration %}
 
         <div class="alert alert-info mb-4">
-            <strong>Early Registration Deadline:</strong> {{ reg.early_deadline }}
+            <strong>Early Registration Deadline:</strong> {{ site.data.dates.early_registration_deadline.display }}
         </div>
 
         <table class="table table-bordered table-hover text-center registration-table">
             <thead>
                 <tr>
                     <th>Category</th>
-                    <th>Early (by {{ reg.early_deadline }})</th>
+                    <th>Early (by {{ site.data.dates.early_registration_deadline.display }})</th>
                     <th>Late / On-site</th>
                     <th>Note</th>
                 </tr>

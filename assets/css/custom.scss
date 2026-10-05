@@ -137,8 +137,10 @@ $light-gray: #f8f9fa;
 $dark-gray: #333;
 $border-gray: #dee2e6;
 $white: #fff;
+$diamond: #4FC3F7;
 $gold: #FFD700;
 $silver: #C0C0C0;
+$bronze: #CD7F32;
 $shadow-light: 0 2px 8px rgba(0, 0, 0, 0.1);
 $shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.15);
 $shadow-hover: 0 6px 20px rgba(0, 0, 0, 0.15);
@@ -313,12 +315,24 @@ $shadow-hover: 0 6px 20px rgba(0, 0, 0, 0.15);
   opacity: 0.9;
 }
 
+.partner-item.partner-diamond {
+  border-top-color: $diamond;
+}
+
 .partner-item.partner-gold {
   border-top-color: $gold;
 }
 
 .partner-item.partner-silver {
   border-top-color: $silver;
+}
+
+.partner-item.partner-bronze {
+  border-top-color: $bronze;
+}
+
+.partner-item.partner-supporter {
+  border-top-color: $border-gray;
 }
 
 .partner-logo-wrapper {
@@ -375,6 +389,12 @@ $shadow-hover: 0 6px 20px rgba(0, 0, 0, 0.15);
   color: var(--secondary-color);
 }
 
+.partner-badge-diamond {
+  background-color: #E1F5FE;
+  color: #0277BD;
+  font-weight: 700;
+}
+
 .partner-badge-gold {
   background-color: #FFF8E1;
   color: #F57F17;
@@ -385,6 +405,17 @@ $shadow-hover: 0 6px 20px rgba(0, 0, 0, 0.15);
   background-color: #ECEFF1;
   color: #455A64;
   font-weight: 700;
+}
+
+.partner-badge-bronze {
+  background-color: #FBE9E7;
+  color: #8D4E1F;
+  font-weight: 700;
+}
+
+.partner-badge-supporter {
+  background-color: $light-gray;
+  color: $dark-gray;
 }
 
 .partner-badge-coordinator {

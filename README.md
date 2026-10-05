@@ -270,7 +270,8 @@ All conference content lives in these YAML files. To update content, edit the re
 | `registration.yml` | `{early_deadline, categories[{name, early, late, note}], registration_url, includes}` | Pricing and fees |
 | `social_programme.yml` | Array of `{title, date, time, venue, description, bus_info, image}` | Social events |
 | `faqs.yml` | Array of `{question, answer}` | Frequently asked questions |
-| `sponsors.yml` | Array of `{name, logo, url, tier}` | Sponsor organizations |
+| `sponsors.yml` | Array of `{name, logo, url, tier}` (tier: `diamond`, `gold`, `silver`, `bronze`, `supporter`) | Sponsor organizations |
+| `sponsorship.yml` | `{vat_note, packages[{name, cost}], benefits[{label, detail, values}], activities, chairs, contact}` | Call for Sponsorship page |
 
 ### Pages (`_pages/`)
 

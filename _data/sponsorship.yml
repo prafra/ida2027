@@ -50,21 +50,6 @@ benefits:
   - label: "Award ceremony"
     values: [true, false, false, false]
 
-# Additional activities sponsors may contribute to
-activities:
-  - name: "Travel Support"
-    description: "Support travel expenses of PhD students attending the PhD Forum."
-    value: "€500*/student"
-  - name: "Accommodation Support"
-    description: "Support accommodation expenses of PhD students attending the PhD Forum."
-    value: "€500*/student"
-  - name: "Sponsored talk"
-    description: "At the main conference, including promotion of the talk via email and social media."
-    value: "flexible"
-  - name: "In-kind sponsorships"
-    description: "Directly covering costs of the conference."
-    value: "flexible"
-
 chairs:
   - name: "Sponsorship Chair 1"
     affiliation: "Affiliation"
