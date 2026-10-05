@@ -4,6 +4,7 @@ layout: default
 
 {{ content }}
 
+{% unless page.tba %}
 <ul class="nav nav-tabs mb-0" id="programmeTabs" role="tablist">
     {% for day in site.data.program %}
     <li class="nav-item">
@@ -77,3 +78,4 @@ layout: default
     </div>
     {% endfor %}
 </div>
+{% endunless %}
