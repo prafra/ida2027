@@ -57,6 +57,8 @@ navbar:
       child:
         - title: Chairs
           url: /chairs/
+        - title: Call for Sponsorship
+          url: /call-for-sponsorship/
     - title: Attending
       child:
         - title: Venue & Travel

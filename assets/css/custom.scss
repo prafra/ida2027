@@ -1103,6 +1103,27 @@ article#maincontent,
   }
 }
 
+// ====== SPONSORSHIP TABLE STYLES ======
+.sponsorship-table {
+  th {
+    background-color: $primary-color;
+    color: $white;
+    vertical-align: middle;
+  }
+
+  td {
+    vertical-align: middle;
+  }
+
+  .fa-check {
+    color: $secondary-color;
+  }
+
+  .sponsorship-cost td {
+    background-color: $light-gray;
+  }
+}
+
 // ====== SPEAKERS GRID ======
 .speakers-section {
   .direttivi-grid {

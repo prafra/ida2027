@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+<main class="container-lg pb-3 flex-fill">
+    <article class="col-lg-12 mt-3 e-content">
+        {{ content }}
+
+        {% assign sp = site.data.sponsorship %}
+
+        <h2 class="mt-4">Sponsorship Packages</h2>
+
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover text-center sponsorship-table">
+                <thead>
+                    <tr>
+                        <th class="text-left">Benefits</th>
+                        {% for pkg in sp.packages %}
+                        <th class="sponsorship-tier sponsorship-tier-{{ pkg.name | slugify }}">{{ pkg.name }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for benefit in sp.benefits %}
+                    <tr>
+                        <td class="text-left">
+                            <strong>{{ benefit.label }}</strong>
+                            {% if benefit.detail %}<br><small class="text-muted">{{ benefit.detail }}</small>{% endif %}
+                        </td>
+                        {% for value in benefit.values %}
+                        <td>
+                            {% if value == true %}<i class="fas fa-check" aria-label="Included"></i>
+                            {% elsif value %}{{ value }}{% endif %}
+                        </td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+                <tfoot>
+                    <tr class="sponsorship-cost">
+                        <td class="text-left"><strong>Cost</strong></td>
+                        {% for pkg in sp.packages %}
+                        <td><strong>{{ pkg.cost }}</strong></td>
+                        {% endfor %}
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <p><small>{{ sp.vat_note }}</small></p>
+
+        {% if sp.activities %}
+        <h2 class="mt-4">Additional Activities</h2>
+        <p>
+            In addition, sponsors may want to contribute to one or more of the following activities,
+            in which case the sponsor name is prominently acknowledged in connection with the activity.
+        </p>
+
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover sponsorship-table">
+                <thead>
+                    <tr>
+                        <th>Activity</th>
+                        <th class="text-center">Estimated value</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for activity in sp.activities %}
+                    <tr>
+                        <td><strong>{{ activity.name }}:</strong> {{ activity.description }}</td>
+                        <td class="text-center text-nowrap">{{ activity.value }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <p><small>{{ sp.vat_note }}</small></p>
+        {% endif %}
+
+        {% if sp.chairs %}
+        <h2 class="mt-4">Sponsorship Chairs</h2>
+        <ul>
+            {% for chair in sp.chairs %}
+            <li><strong>{{ chair.name }}</strong> ({{ chair.affiliation }})</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if sp.contact %}
+        <p class="mt-3">
+            <strong>Contact:</strong> <a href="mailto:{{ sp.contact }}">{{ sp.contact }}</a>
+        </p>
+        <p>
+            <a href="mailto:{{ sp.contact }}?subject={{ site.conference.acronym | url_encode }}%20Sponsorship" class="btn btn-primary btn-lg">
+                Become a Sponsor
+            </a>
+        </p>
+        {% endif %}
+    </article>
+</main>

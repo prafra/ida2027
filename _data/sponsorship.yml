@@ -1,0 +1,74 @@
+vat_note: "*VAT excluded"
+
+# Sponsorship levels (columns of the packages table)
+packages:
+  - name: "Diamond"
+    cost: "€7,000*"
+  - name: "Gold"
+    cost: "€5,000*"
+  - name: "Silver"
+    cost: "€2,000*"
+  - name: "Bronze"
+    cost: "€1,000*"
+
+# Benefits (rows of the packages table).
+# "values" follows the order of "packages":
+#   true  -> check mark
+#   false -> empty cell
+#   other -> shown as is (e.g. a number)
+benefits:
+  - label: "Listing on the conference website"
+    detail: "(logo and link)"
+    values: [true, true, true, true]
+  - label: "Logo in conference programme"
+    values: [true, true, true, true]
+  - label: "Logo on sponsorship board"
+    detail: "within registration area"
+    values: [true, true, true, true]
+  - label: "Opportunity to contact opted-in participants"
+    detail: "before the conference"
+    values: [true, true, true, false]
+  - label: "Items in conference bag"
+    values: [4, 3, 2, 1]
+  - label: "Full conference registrations"
+    values: [5, 3, 1, false]
+  - label: "Discount on additional registrations"
+    values: [5, 3, 1, false]
+  - label: "Prime logo placement"
+    detail: "on event videos/slides"
+    values: [true, true, false, false]
+  - label: "Advertising on social media"
+    values: [true, true, false, false]
+  - label: "Promotion slide"
+    detail: "during main conference"
+    values: [true, true, false, false]
+  - label: "Naming an event"
+    detail: "(reception, banquet, ...)"
+    values: [true, true, false, false]
+  - label: "Access to meeting rooms"
+    values: [true, true, false, false]
+  - label: "Award ceremony"
+    values: [true, false, false, false]
+
+# Additional activities sponsors may contribute to
+activities:
+  - name: "Travel Support"
+    description: "Support travel expenses of PhD students attending the PhD Forum."
+    value: "€500*/student"
+  - name: "Accommodation Support"
+    description: "Support accommodation expenses of PhD students attending the PhD Forum."
+    value: "€500*/student"
+  - name: "Sponsored talk"
+    description: "At the main conference, including promotion of the talk via email and social media."
+    value: "flexible"
+  - name: "In-kind sponsorships"
+    description: "Directly covering costs of the conference."
+    value: "flexible"
+
+chairs:
+  - name: "Sponsorship Chair 1"
+    affiliation: "Affiliation"
+  - name: "Sponsorship Chair 2"
+    affiliation: "Affiliation"
+
+contact: "sponsorship@conference.org"
