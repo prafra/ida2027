@@ -3,13 +3,13 @@ vat_note: "*VAT excluded"
 # Sponsorship levels (columns of the packages table)
 packages:
   - name: "Diamond"
-    cost: "€7,000*"
-  - name: "Gold"
     cost: "€5,000*"
+  - name: "Gold"
+    cost: "€3,500*"
   - name: "Silver"
     cost: "€2,000*"
   - name: "Bronze"
-    cost: "€1,000*"
+    cost: "€750*"
 
 # Benefits (rows of the packages table).
 # "values" follows the order of "packages":
@@ -25,35 +25,35 @@ benefits:
   - label: "Logo on sponsorship board"
     detail: "within registration area"
     values: [true, true, true, true]
-  - label: "Opportunity to contact opted-in participants"
-    detail: "before the conference"
-    values: [true, true, true, false]
   - label: "Items in conference bag"
     values: [4, 3, 2, 1]
   - label: "Full conference registrations"
     values: [5, 3, 1, false]
   - label: "Discount on additional registrations"
     values: [5, 3, 1, false]
+  - label: "Opportunity to contact opted-in participants"
+    detail: "before the conference"
+    values: [true, true, true, false]
+  - label: "Exhibition Stand"
+    values: [true,true,false,false]
   - label: "Prime logo placement"
     detail: "on event videos/slides"
     values: [true, true, false, false]
-  - label: "Advertising on social media"
+  - label: "Inclusion in all press releases"
     values: [true, true, false, false]
-  - label: "Promotion slide"
-    detail: "during main conference"
-    values: [true, true, false, false]
-  - label: "Naming an event"
+  - label: "Naming at event"
     detail: "(reception, banquet, ...)"
     values: [true, true, false, false]
-  - label: "Access to meeting rooms"
-    values: [true, true, false, false]
-  - label: "Award ceremony"
+  - label: "Promotion slide/short video"
+    detail: "during main conference"
+    values: [true, false, false, false]
+  - label: "Advertising on social media"
     values: [true, false, false, false]
 
-chairs:
-  - name: "Sponsorship Chair 1"
-    affiliation: "Affiliation"
-  - name: "Sponsorship Chair 2"
-    affiliation: "Affiliation"
+#chairs:
+#  - name: "Sponsorship Chair 1"
+#    affiliation: "Affiliation"
+#  - name: "Sponsorship Chair 2"
+#    affiliation: "Affiliation"
 
-contact: "sponsorship@conference.org"
+#contact: "sponsorship@conference.org"

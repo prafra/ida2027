@@ -11,9 +11,9 @@ project_links:
     - url: '/registration/' 
       icon: fas fa-ticket-alt
       label: Register Now      
-    - url: '/regular-paper-track/' 
-      icon: fas fa-paper-plane
-      label: Submit Paper
+    #- url: '/regular-paper-track/' 
+    #  icon: fas fa-paper-plane
+    #  label: Submit Paper
 ---
 
 <div class="container-lg mt-4">

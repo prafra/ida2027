@@ -12,13 +12,15 @@ The {{ site.conference.acronym }} PhD Forum provides an opportunity for graduate
 
 ## Mentorship Program
 
-Students are paired with experienced researchers (e.g., program committee members). Mentors and mentees arrange meetings during the conference to discuss research and career goals.
+IDA 2027 will include a mentorship program. Students participating in the PhD track will be paired with experienced researchers (e.g., IDA Senior Program Committee members) and meetings will be arranged during the conference to allow discussion between the students and mentors.
 
 ## Submissions
 
 ### Who Should Submit
 
 The PhD Forum is open to all graduate students working in {{ site.conference.topic }} or related fields.
+
+It is worth noting that you do not need to have previously published your work. Our PhD Forum is open to all PhD students, including those in the early stages of their research and still developing their research ideas.
 
 ### Submission Format
 
@@ -48,8 +50,9 @@ Your 2-page paper should cover:
 | Milestone | Date |
 |-----------|------|
 | 2-Page Paper Submission | {{ site.data.dates.phd_forum_deadline.display }} |
-| Notification of Acceptance | TBD |
-| Registration (accepted submissions) | TBD |
+| Notification of Acceptance | March 2, 2027 AOE |
+| Early Registration Deadline | {{site.data.dates.early_registration_deadline.display}} |
+| Registration (accepted submissions) | March 27, 2027 AOE |
 
 ## Contact
 
@@ -57,4 +60,4 @@ For questions about the PhD Forum, contact the PhD Forum Chair listed on the [Ch
 
 ## Submit
 
-[Submission System](https://example.com/conference-submission/)
+Please use the [Submission System](https://example.com/conference-submission/) (and remember to select the PhD Forum track!)

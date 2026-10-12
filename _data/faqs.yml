@@ -2,7 +2,7 @@
   answer: "Single-blind review process. Reviewers are aware of the authors' identities, but authors do not know the reviewers."
 
 - question: "What is the page limit for regular papers?"
-  answer: "10-12 pages including figures, title pages, references, and appendices. Format: LNCS (Springer Lecture Notes in Computer Science)."
+  answer: "10-12 pages including figures, title pages, references, and appendices. <!--Format: LNCS (Springer Lecture Notes in Computer Science).-->"
 
 - question: "Can I submit to both the regular track and the PhD Forum?"
   answer: "PhD students should submit full papers to the regular track if they want to be considered for the main conference. The PhD Forum is specifically for 2-page poster abstracts."

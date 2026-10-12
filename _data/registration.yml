@@ -1,19 +1,24 @@
-early_deadline: "March 7, 202X"
+#early_deadline: "March 7, 202X"
 
 categories:
   - name: "Student"
-    early: 249
+    early: 289
     late: 399
     note: "Requires proof of enrollment (BSc / MSc / PhD)"
-  - name: "Regular"
-    early: 469
-    late: 599
+  - name: "Academic"
+    early: 499
+    late: 629
+    note: ""
+  - name: "Professional"
+    early: 599
+    late: 799
     note: ""
 
 registration_url: "https://example.com/conference-registration"
 
 includes:
   - All sessions and presentations
+  - PhD Forum and posters
   - Coffee breaks and lunches
-  - Social events (welcome reception, conference dinner)
+  - Social events #(welcome reception, conference dinner)
   - Conference materials

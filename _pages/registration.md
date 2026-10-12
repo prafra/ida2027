@@ -9,7 +9,8 @@ conference-header: true
 
 ## Registration for {{ site.conference.acronym }}
 
-Registration is now open. Early registration is recommended to benefit from reduced rates.
+<!--Registration is now open. Early registration is recommended to benefit from reduced rates.-->
+Registration is not open yet.
 
 ## Important Notes
 
@@ -19,6 +20,6 @@ Registration is now open. Early registration is recommended to benefit from redu
 - Student rate requires proof of enrollment (BSc / MSc / PhD)
 - Formal invitation letters are sent only to accepted paper authors upon explicit request
 
-## Free PhD Student Seats
+<Free PhD Student Seats>
 
-A fixed number of free seats are available for full-registered PhD students on a first-come-first-served basis. Please contact the organizers for details.
+<A fixed number of free seats are available for full-registered PhD students on a first-come-first-served basis. Please contact the organizers for details.>

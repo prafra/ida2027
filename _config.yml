@@ -1,13 +1,13 @@
 # Conference Website — Jekyll Template
 
-title: "Conference 2027"
-subtitle: "25th International Conference on the topic of the conferenceConference 202X: 25th International Conference on the topic of the conference."
-email: "contact@conference.org"
+title: "IDA 2027"
+subtitle: "25th International Symposium on Intelligent Data Analysis."
+email: "francesca [dot] pratesi [at] isti [dot] cnr [dot] it"
 description: >-
-  Conference 2027: 25th International Conference on the topic of the conference.
+  Conference 2027: 25th International Symposium on Intelligent Data Analysis.
 
 conference:
-  name: "International Conference on the topic of the conference"
+  name: "International Symposium on Intelligent Data Analysis"
   edition: "25th"
   acronym: "IDA 2027"
   year: 2027
@@ -65,9 +65,9 @@ navbar:
           url: /venue-and-travel/
         - title: Registration
           url: /registration/
-    - title: Submission System
-      url: https://example.com/conference-submission/
-      target: _blank
+    #- title: Submission System
+    #  url: https://example.com/conference-submission/
+    #  target: _blank
 
 googlefonts:
   - url: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap"
@@ -109,15 +109,15 @@ collections:
 
 footer:
   links:
-    - label: "Bluesky"
-      icon: "fab fa-bluesky"
-      url: "https://bsky.app/profile/conference.bsky.social"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/groups/conference/"
-    - label: "Facebook"
-      icon: "fab fa-facebook"
-      url: "https://www.facebook.com/conference/"
+  #  - label: "Bluesky"
+  #    icon: "fab fa-bluesky"
+   #   url: "https://bsky.app/profile/conference.bsky.social"
+  #  - label: "LinkedIn"
+  #    icon: "fab fa-linkedin"
+  #    url: "https://www.linkedin.com/groups/conference/"
+  #  - label: "Facebook"
+  #    icon: "fab fa-facebook"
+  #    url: "https://www.facebook.com/conference/"
   copyright: "2027 - Conference Website"
 
 sass:

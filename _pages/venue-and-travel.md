@@ -26,15 +26,23 @@ Description of the host city and its attractions will be added here.
 
 ### By Air
 
-Information about nearby airports and transportation to the venue.
+Galileo Galilei Pisa Ariport is conveniently near to the city center.
+
+- Pisa Mover: connects the airport to Pisa Centrale train station in about 5 minutes. It runs every day from 6:00 AM to midnight, with departures every 5 minutes. One-way ticket: €6.50, round-trip: €10.00.
+
+- Taxi: available outside the airport; a ride to the city center takes approximately 10 minutes and costs around €10.00.
 
 ### By Train
 
-Information about train connections.
+Station Pisa Centrale is well connected to the rest of the city by local buses and taxis.
 
 ### Local Transportation
 
-Information about local public transport.
+Public transportation in Pisa is operated by Autolinee Toscane.
+
+- Tickets: a standard urban ticket is valid for 70 minutes from validation.
+
+- Timetables and routes: available on the official <a href="https://www.at-bus.it/it/pisa" target="_blank">Autolinee Toscane website</a>
 
 ## Accommodation
 

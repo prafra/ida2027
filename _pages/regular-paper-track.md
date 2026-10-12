@@ -14,15 +14,16 @@ show_toc: true
 
 ### Format and Length
 
-- **Format:** LNCS (Springer Lecture Notes in Computer Science)
-- **Template:** [LNCS Author Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+- **Format:** TBC<!--LNCS (Springer Lecture Notes in Computer Science)-->
+- **Template:** TBC<!--[LNCS Author Guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)-->
 - **Page limit:** 10-12 pages (including figures, title pages, references, and appendices)
 
 ### Where to Submit
 
 Submissions must be made through the submission system:
 
-[Submission System](https://example.com/conference-submission/)
+TBA
+<!--[Submission System](https://example.com/conference-submission/)-->
 
 ### Important Dates
 
@@ -50,7 +51,9 @@ Submissions must be made through the submission system:
 
 ### Publication
 
-Accepted papers will be published in the **Lecture Notes in Computer Science (LNCS)** by Springer-Verlag.
+Publication venue will be published soon.
+
+<!--Accepted papers will be published in the **Lecture Notes in Computer Science (LNCS)** by Springer-Verlag.-->
 
 ## FAQ
 
