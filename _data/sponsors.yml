@@ -19,7 +19,7 @@
 #  url: "https://example.com"
 #  tier: "bronze"
 
-#- name: "Tech Partner"
-#  logo: ""
-#  url: "https://example.com"
-#  tier: "supporter"
+- name: "Springer Nature"
+  logo: "/assets/images/sponsors/LNCS-Logo.png"
+  url: "https://link.springer.com/series/558"
+  tier: "supporter"

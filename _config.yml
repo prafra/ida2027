@@ -43,16 +43,16 @@ navbar:
           url: /regular-paper-track/
         - title: PhD Forum
           url: /phd-forum/
-    - title: Programme
-      child:
-        - title: Programme Overview
-          url: /programme-overview/
-        # - title: Accepted Papers
-        #   url: /accepted-papers/
-        - title: Invited Speakers
-          url: /invited-speakers/
-        - title: Social Programme
-          url: /social-programme/
+    #- title: Programme
+    #  child:
+    #    - title: Programme Overview
+    #      url: /programme-overview/
+    #    # - title: Accepted Papers
+    #    #   url: /accepted-papers/
+    #    - title: Invited Speakers
+    #      url: /invited-speakers/
+    #    - title: Social Programme
+    #      url: /social-programme/
     - title: Organization
       child:
         - title: Chairs
@@ -65,9 +65,9 @@ navbar:
           url: /venue-and-travel/
         - title: Registration
           url: /registration/
-    #- title: Submission System
-    #  url: https://example.com/conference-submission/
-    #  target: _blank
+    - title: Submission System
+      url: https://cmt3.research.microsoft.com/IDA2027
+      target: _blank
 
 googlefonts:
   - url: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap"
@@ -109,15 +109,15 @@ collections:
 
 footer:
   links:
-  #  - label: "Bluesky"
-  #    icon: "fab fa-bluesky"
-   #   url: "https://bsky.app/profile/conference.bsky.social"
+    - label: "Bluesky"
+      icon: "fab fa-bluesky"
+      url: "https://bsky.app/profile/ida-symposia.bsky.social"
   #  - label: "LinkedIn"
   #    icon: "fab fa-linkedin"
-  #    url: "https://www.linkedin.com/groups/conference/"
+  #    url: "https://www.linkedin.com/groups/13391032/"
   #  - label: "Facebook"
   #    icon: "fab fa-facebook"
-  #    url: "https://www.facebook.com/conference/"
+  #    url: "https://www.facebook.com/IDAsymposia/"
   copyright: "2027 - Conference Website"
 
 sass:

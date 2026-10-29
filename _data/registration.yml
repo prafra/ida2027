@@ -14,7 +14,7 @@ categories:
     late: 799
     note: ""
 
-registration_url: "https://example.com/conference-registration"
+##registration_url: "https://example.com/conference-registration"
 
 includes:
   - All sessions and presentations

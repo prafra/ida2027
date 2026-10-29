@@ -3,7 +3,7 @@ layout: default-full
 title: "Conference"
 permalink: /
 header_title: "IDA 2027"
-subtitle: "25<sup>th</sup> International Symposium on Conference Topic<br><span class=\"small\">April 21-23, 2027</span> | Pisa, Italy"
+subtitle: "25<sup>th</sup> International Symposium on Intelligent Data Analysis<br><span class=\"small\">April 21-23, 2027</span> | Pisa, Italy"
 header_type: hero
 header_white: true
 header_img: /assets/images/hero.jpg
@@ -11,15 +11,15 @@ project_links:
     - url: '/registration/' 
       icon: fas fa-ticket-alt
       label: Register Now      
-    #- url: '/regular-paper-track/' 
-    #  icon: fas fa-paper-plane
-    #  label: Submit Paper
+    - url: '/regular-paper-track/' 
+      icon: fas fa-paper-plane
+      label: Submit Paper
 ---
 
 <div class="container-lg mt-4">
     <div class="row mb-5">
         <div class="col-6">
-            <h3>{{ site.conference.edition }} International Conference on {{ site.conference.topic }}</h3>
+            <h3>{{ site.conference.edition }} International Symposium on {{ site.conference.topic }}</h3>
             <p>
                 Advancing <em>{{ site.conference.topic }}</em> requires novel, potentially game-changing ideas. 
                 {{ site.conference.acronym }}'s mission is to promote innovation and scientific excellence: 

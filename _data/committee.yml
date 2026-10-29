@@ -30,26 +30,26 @@
 
 - name: "Katsiaryna Haitsiukevich"
   affiliation: "University of Helsinki"
-  photo: ""
-  bio: "Bio to be added."
+  photo: "/assets/images/committee/haitsiukevich.png"
+  bio: "Katsiaryna Haitsiukevich is a Postdoctoral researcher at University of Helsinki, Department of Computer Science supervised by Prof. Kai Puolamäki. She is passionate about deep learning methods for science and engineering. Her research focuses on developing sample-efficient methods for modeling of physical systems. She did her PhD at Aalto University School of Science supervised by Prof. Pekka Marttinen and advised by Dr. Alexander Ilin. Prior to starting her PhD studies, she worked as a Data Scientist and a Quantitative Analyst in the financial industry. She earned her Bachelor's and Master's degrees in Applied Mathematics."
   role: "PhD Forum Chair"
 
 - name: "Virginia Morini"
   affiliation: "University of Pisa"
   photo: "/assets/images/committee/morini.png"
-  bio: "Bio to be added."
+  bio: "Virginia Morini is a Postdoctoral Researcher at the University of Pisa, Department of Computer Science, and a Research Associate at the KDD Lab of ISTI-CNR. Her research lies at the intersection of Computational Social Science, Network Science and Natural Language Processing. She studies online socio-technical systems, with a focus on polarization and echo chambers, online mental health communities, and the impact of recommender systems on information ecosystems. More recently, she has been working on LLM-based simulations of social media platforms. She did her PhD in the Italian National PhD Program in Artificial Intelligence (AI & Society track) at the University of Pisa, supervised by Dr. Giulio Rossetti and Prof. Dino Pedreschi."
   role: "Local Chair"
 
 - name: "Valentina Pansanella"
   affiliation: "National Council of Research of Italy"
   photo: "/assets/images/committee/pansanella.png"
-  bio: "Bio to be added."
+  bio: "Valentina Pansanella holds a PhD in Data Science from Scuola Normale Superiore in Pisa and is currently a postdoctoral researcher holding a senior research fellowship at the Institute of Information Science and Technologies (ISTI) of the Italian National Research Council (CNR), Pisa. Her research focuses on computational social science, social network analysis, opinion dynamics, and the study of social interactions using computational and data-driven methods."
   role: "Local Chair"
 
 - name: "Gizem Gezici"
   affiliation: "Scuola Normale Superiore"
   photo: "/assets/images/committee/gezici.png"
-  bio: "Bio to be added."
+  bio: "Gizem Gezici is currently a Research Fellow in Computer Science at Scuola Normale Superiore in Pisa, Italy. She received her BSc, MSc, and PhD in Computer Science and Engineering from Sabancı University, completing her doctorate in 2022 with a thesis on evaluating bias in search engine results. Before joining Scuola Normale Superiore as a postdoctoral researcher in 2022, she held research, technical leadership, and engineering management roles at Huawei, translating cutting-edge research into global products. She also secured and led a nationally funded university–industry R&D project on learning-to-rank for enterprise search as Principal Investigator. Her research interests lie in machine learning, natural language processing, and information retrieval. Her recent work focuses on responsible generative AI, particularly reliable, inclusive, robust, and explainable language models."
   role: "Proceedings Chair"
 
 - name: "Laura Pollacci"
@@ -63,6 +63,12 @@
   photo: "/assets/images/committee/fadda.jpg"
   bio: "Daniele Fadda is an information designer, graduated in Communication Design at the Politecnico di Milano in 2010. He's got a master of Science (M.Sc.) from University of Pisa in Big Data Analytics and Social Mining in 2015. His current research interests are Mobility Data Analysis, Data Visualization for complex systems and Visual Analytics methods for Big Data."
   role: "Webmaster and Publicity Team"
+
+- name: "Michela Gravina"
+  affiliation: "University of Naples Federico II"
+  photo: "/assets/images/committee/gravina.png"
+  bio: "Bio to be added."
+  role: "Publicity Team"
 
 #- name: "Placeholder Publicity 2"
 #  affiliation: "University Name"

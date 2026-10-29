@@ -60,4 +60,4 @@ For questions about the PhD Forum, contact the PhD Forum Chair listed on the [Ch
 
 ## Submit
 
-Please use the [Submission System](https://example.com/conference-submission/) (and remember to select the PhD Forum track!)
+Please use the [Submission System](https://cmt3.research.microsoft.com/IDA2027) (and remember to select the PhD Forum track!)
