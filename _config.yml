@@ -43,14 +43,14 @@ navbar:
           url: /regular-paper-track/
         - title: PhD Forum
           url: /phd-forum/
-    #- title: Programme
-    #  child:
+    - title: Programme
+      child:
     #    - title: Programme Overview
     #      url: /programme-overview/
     #    # - title: Accepted Papers
     #    #   url: /accepted-papers/
-    #    - title: Invited Speakers
-    #      url: /invited-speakers/
+        - title: Invited Speakers
+          url: /invited-speakers/
     #    - title: Social Programme
     #      url: /social-programme/
     - title: Organization

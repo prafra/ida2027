@@ -12,12 +12,12 @@
   talk_abstract: "Abstract to be added."
   website: "https://researchportal.bath.ac.uk/en/persons/nello-cristianini/"
 
-- name: "Speaker Name 3"
-  affiliation: "University Name"
-  photo: ""
-  talk_title: "Talk Title Placeholder 3"
+- name: "Fosca Giannotti"
+  affiliation: "Scuola Normale Superiore"
+  photo: "/assets/images/committee/giannotti.jpeg"
+  talk_title: "TBA"
   talk_abstract: "Abstract to be added."
-  website: "https://example.com"
+  website: "https://www.sns.it/it/persona/fosca-giannotti"
 
 - name: "Speaker Name 4"
   affiliation: "University Name"
