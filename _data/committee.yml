@@ -70,6 +70,12 @@
   bio: "Bio to be added."
   role: "Publicity Team"
 
+- name: "Peter Zdankin"
+  affiliation: "University of Duisburg-Essen"
+  photo: "/assets/images/committee/Zdankin.jpg"
+  bio: "Peter finished his PhD with distinction at the University of Duisburg-Essen and started working at the Institute for Artificial Intelligence in Medicine at the University Clinic Essen. His research focuses on novel IoT architectures and symbolic-regression based ML methods. He has co-organized several workshops (PerFail, AutoQuitous, LongevIoT, UBiFailing, PerIoT and is in the TPC/ Reviews for IEEE PerCom, IEEE GCAIoT, ACM ICDCN, IEEE IE, IEEE CCNC and Elsevier COMCOM. Last year he also served on the publicity chair of IEEE PerCom. He teaches courses on C++, Distributed Systems, Computer Architecture, Computer Networks and Internet and Web-technologies as well as small voluntary student courses. Furthermore, he works as a self-employed IoT prototyper/consultant, developing IoT devices made for longevity, as well as some iOS Applications."
+  role: "Publicity Team"
+
 #- name: "Placeholder Publicity 2"
 #  affiliation: "University Name"
 #  photo: ""

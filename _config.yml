@@ -112,12 +112,12 @@ footer:
     - label: "Bluesky"
       icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/ida-symposia.bsky.social"
-  #  - label: "LinkedIn"
-  #    icon: "fab fa-linkedin"
-  #    url: "https://www.linkedin.com/groups/13391032/"
-  #  - label: "Facebook"
-  #    icon: "fab fa-facebook"
-  #    url: "https://www.facebook.com/IDAsymposia/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/groups/13391032/"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/IDAsymposia/"
   copyright: "2027 - Conference Website"
 
 sass:
