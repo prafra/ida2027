@@ -1,0 +1,24 @@
+- name: "Francesca Pratesi"
+  affiliation: "CNR"
+  type: "SPC"
+  id: "1"
+
+- name: "Placeholder 2"
+  affiliation: "Placeholder"
+  type: "SPC"
+  id: "2"
+
+- name: "Placeholder 3"
+  affiliation: "Placeholder"
+  type: "SPC"
+  id: "3"
+
+- name: "Placeholder 4"
+  affiliation: "Placeholder"
+  type: "PC"
+  id: "4"
+
+- name: "Placeholder 5"
+  affiliation: "Placeholder"
+  type: "PC"
+  id: "5"
